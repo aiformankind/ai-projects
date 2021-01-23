@@ -7,8 +7,8 @@ Here are some of the projects we are working on.
      - Improve existing production detectors
      - Train nite time wildfire detectors
      - Build depth estimation model from single monocular image to determine the lat/long of detected wildfire
-     - Build GAN to generate synthetic smoke images
-     - Deploy prod detectors to run on edge devices
+     - Build GAN to generate synthetic smoke images: https://github.com/aiformankind/gan-for-wildfire
+     - Deploy prod detectors to run on edge devices: https://github.com/aiformankind/on-device-ai
 
 2. Scene Understanding to enable people who are blind to navigate the world freely
     -  Build wearable camera with navigation cues to guide people who are blind
