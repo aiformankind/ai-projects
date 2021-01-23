@@ -14,5 +14,4 @@ Here are some of the projects we are working on.
     -  Build wearable camera with navigation cues to guide people who are blind
     
 
-
-
+We invite you to volunteer to help out with the above tasks. Once you sign up to take up the task, the expectation is you have to meet the deliverables within 2 months and join our bi-weekly meeting.
